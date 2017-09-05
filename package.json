@@ -1,0 +1,11 @@
+{
+  "name": "immutable-record",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "Benjamin Wang",
+  "license": "MIT"
+}
